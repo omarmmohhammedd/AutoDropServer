@@ -358,8 +358,8 @@ const sallaData = {
   salla_api_url: process.env.SALLA_API_URL!,
   auth_url: "https://accounts.salla.sa/oauth2/auth",
   token_url: "https://accounts.salla.sa/oauth2/token",
-  // callback_url:"https://auto-drop-rtxb.onrender.com/api/v1/auth/auth-salla/callback",
-  callback_url:"https://manatee-gorgeous-deeply.ngrok-free.app/api/v1/auth/auth-salla/callback",
+  callback_url:"https://autodropserver.onrender.com/api/v1/auth/auth-salla/callback",
+  // callback_url:"https://manatee-gorgeous-deeply.ngrok-free.app/api/v1/auth/auth-salla/callback",
 };
 
 export const sallaAuth = catchAsync(
