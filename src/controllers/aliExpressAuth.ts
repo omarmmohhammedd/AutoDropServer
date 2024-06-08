@@ -7,8 +7,8 @@ import AliExpressToken from "../models/AliExpressTokenModel";
 
 let aliexpressData = {
   callbackUrl:
-    // "https://auto-drop-rtxb.onrender.com/api/v1/auth/auth-aliexpress/callback",
     "https://autodropserver.onrender.com/api/v1/auth/auth-aliexpress/callback",
+    // "https://manatee-gorgeous-deeply.ngrok-free.app/api/v1/auth/auth-aliexpress/callback",
     appKey: process.env.APP_KEY!,
     appSecret: process.env.APP_SECRET!,
 };
