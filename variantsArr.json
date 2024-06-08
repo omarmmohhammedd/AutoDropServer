@@ -1,0 +1,71 @@
+[
+  {
+    "offer_sale_price": "529.93",
+    "sku_available_stock": 996,
+    "id": "14:175#Obturation Gun",
+    "sku_code": "14:175",
+    "sku_id": "12000038615450601",
+    "sku_price": "854.71",
+    "offer_bulk_sale_price": "529.93",
+    "sku_stock": true,
+    "relativeOptions": [
+      {
+        "sku_property_value": "Green",
+        "sku_image": "https://ae01.alicdn.com/kf/S43f4915bdf844038b491e1121360bd1f0.jpg",
+        "sku_property_name": "Color",
+        "property_value_definition_name": "Obturation Gun",
+        "property_value_id": 175,
+        "sku_property_id": 14
+      }
+    ],
+    "sallaValues": [
+      950923657
+    ]
+  },
+  {
+    "offer_sale_price": "1007.66",
+    "sku_available_stock": 997,
+    "id": "14:193#Full set",
+    "sku_code": "14:193",
+    "sku_id": "12000038615450600",
+    "sku_price": "1625.27",
+    "offer_bulk_sale_price": "1007.66",
+    "sku_stock": true,
+    "relativeOptions": [
+      {
+        "sku_property_value": "Black",
+        "sku_image": "https://ae01.alicdn.com/kf/Sa7adbb2153384f0ba7d6d4cd27fed544m.jpg",
+        "sku_property_name": "Color",
+        "property_value_definition_name": "Full set",
+        "property_value_id": 193,
+        "sku_property_id": 14
+      }
+    ],
+    "sallaValues": [
+      176820362
+    ]
+  },
+  {
+    "offer_sale_price": "502.46",
+    "sku_available_stock": 999,
+    "id": "14:1052#Obturation Pen",
+    "sku_code": "14:1052",
+    "sku_id": "12000038615450602",
+    "sku_price": "810.42",
+    "offer_bulk_sale_price": "502.46",
+    "sku_stock": true,
+    "relativeOptions": [
+      {
+        "sku_property_value": "Pink",
+        "sku_image": "https://ae01.alicdn.com/kf/S5646d694fb89497181a56f8e46009f9d1.jpg",
+        "sku_property_name": "Color",
+        "property_value_definition_name": "Obturation Pen",
+        "property_value_id": 1052,
+        "sku_property_id": 14
+      }
+    ],
+    "sallaValues": [
+      1683439499
+    ]
+  }
+]

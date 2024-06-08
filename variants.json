@@ -1,0 +1,109 @@
+{
+  "variants": [
+    {
+      "id": 1799043953,
+      "price": {
+        "amount": 529.93,
+        "currency": "SAR"
+      },
+      "regular_price": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "cost_price": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "sale_price": null,
+      "has_special_price": false,
+      "stock_quantity": null,
+      "unlimited_quantity": true,
+      "notify_low": null,
+      "barcode": null,
+      "sku": null,
+      "mpn": null,
+      "gtin": null,
+      "related_options": [
+        1060130756
+      ],
+      "related_option_values": [
+        950923657
+      ],
+      "weight": null,
+      "weight_type": "kg",
+      "weight_label": "٠٫١ كجم",
+      "is_user_subscribed_to_sku": false,
+      "is_default": true
+    },
+    {
+      "id": 1157651058,
+      "price": {
+        "amount": 529.93,
+        "currency": "SAR"
+      },
+      "regular_price": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "cost_price": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "sale_price": null,
+      "has_special_price": false,
+      "stock_quantity": null,
+      "unlimited_quantity": true,
+      "notify_low": null,
+      "barcode": null,
+      "sku": null,
+      "mpn": null,
+      "gtin": null,
+      "related_options": [
+        1060130756
+      ],
+      "related_option_values": [
+        176820362
+      ],
+      "weight": null,
+      "weight_type": "kg",
+      "weight_label": "٠٫١ كجم",
+      "is_user_subscribed_to_sku": false,
+      "is_default": false
+    },
+    {
+      "id": 384661875,
+      "price": {
+        "amount": 529.93,
+        "currency": "SAR"
+      },
+      "regular_price": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "cost_price": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "sale_price": null,
+      "has_special_price": false,
+      "stock_quantity": null,
+      "unlimited_quantity": true,
+      "notify_low": null,
+      "barcode": null,
+      "sku": null,
+      "mpn": null,
+      "gtin": null,
+      "related_options": [
+        1060130756
+      ],
+      "related_option_values": [
+        1683439499
+      ],
+      "weight": null,
+      "weight_type": "kg",
+      "weight_label": "٠٫١ كجم",
+      "is_user_subscribed_to_sku": false,
+      "is_default": false
+    }
+  ]
+}
