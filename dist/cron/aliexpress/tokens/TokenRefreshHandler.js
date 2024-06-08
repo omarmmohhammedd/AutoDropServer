@@ -18,8 +18,8 @@ const user_model_1 = __importDefault(require("../../../models/user.model"));
 const SallaTokenModel_1 = __importDefault(require("../../../models/SallaTokenModel"));
 const axios_1 = __importDefault(require("axios"));
 const RefreshAccessToken_1 = require("../../../controllers/salla/RefreshAccessToken");
-// const time: string = "0 0 */5 * *";
-const time = "*/10 * * * * *";
+const time = "0 0 */5 * *";
+// const time: string = "*/10 * * * * *";
 const TokenRefreshHandler = (0, node_cron_1.schedule)(time, function () {
     return __awaiter(this, void 0, void 0, function* () {
         try {

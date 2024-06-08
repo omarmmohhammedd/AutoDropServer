@@ -13,8 +13,8 @@ import dayjs from "dayjs";
 import { pick } from "lodash";
 import { RefreshTokenHandler } from "../../../controllers/salla/RefreshAccessToken";
 
-// const time: string = "0 0 */5 * *";
-const time: string = "*/10 * * * * *";
+const time: string = "0 0 */5 * *";
+// const time: string = "*/10 * * * * *";
 
 const TokenRefreshHandler = schedule(time, async function () {
   try {
