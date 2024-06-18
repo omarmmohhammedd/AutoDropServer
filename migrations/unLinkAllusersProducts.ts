@@ -32,7 +32,7 @@ async function UnLinkAllUsersProducts() {
       let token = await createAccessToken(user.id);
       console.log("token", token)
       let options = {
-        url: `http://localhost:10000/api/v1/aliexpress/product/deleteProduct/${product._id}`,
+        url: `${process.env.Backend_Link}aliexpress/product/deleteProduct/${product._id}`,
         // baseUrl: "http://localhost:10000/api/v1/aliexpress",
         method: "DELETE",
         headers: {
